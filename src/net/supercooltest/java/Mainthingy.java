@@ -13,12 +13,7 @@ public class Mainthingy {
     
              String IP = input.nextLine();
 
-             if () {
-                
-             } else {
-                
-             }
-
+             
             System.out.println("Your IP adress is " + IP);
             System.out.println("Now enter your adress: ");
 
